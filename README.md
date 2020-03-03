@@ -7,4 +7,4 @@ Than install necessary Pods for project.
 
 # Used Pods
  - AFNetworking, for network requests
- - SDWebImage, to download and cahce images
+ - SDWebImage, to download and cache images
